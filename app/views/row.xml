@@ -1,0 +1,5 @@
+<Alloy>
+    <TableViewRow class="rowTVR">
+        <Label id="nameLbl" left="10"/>
+    </TableViewRow>
+</Alloy>

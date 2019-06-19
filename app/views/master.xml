@@ -1,0 +1,5 @@
+<Alloy>
+    <Window class="container" layout="vertical" title="Master">
+        <TableView id="tableTV" onClick="throttledGoToInspectionPanel" />
+    </Window>
+</Alloy>

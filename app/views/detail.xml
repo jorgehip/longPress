@@ -1,0 +1,5 @@
+<Alloy>
+    <Window id="detailWin" title="Detail" layout="vertical">
+        <Label id=numberLbl />
+    </Window>
+</Alloy>
